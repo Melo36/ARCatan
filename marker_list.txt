@@ -1,0 +1,13 @@
+347a, 72db, 750b, 3b0d, 2bf2, 506b, 0fab, 2d57, 12e4, 599d, 451e, 227d, 0a91, 128f, 1d59, 21ee, 30a9, 332a, 0125
+
+Haus: 066e
+City: 1d77
+Street: 3ec3 
+Next turn: 99ff
+Mitte ist: 599d
+
+
+Zu drehen: 
+0fab, 0125, 332a 128f,2bf2, 72db, 3b0d, 0a91
+
+neu 227d

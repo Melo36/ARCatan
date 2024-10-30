@@ -1,0 +1,7 @@
+First AR Setup:
+one extern camera that captures the physical game
+one window on a laptop that lays the virtual game on top
+
+one marker tracker that tracks resource-markers and lays random numbers on top (number-grid)
+all resource-markers are world-reference markers that can determine the camera position
+game logic with opengl, which calculates a settlement-grid and a street-grid where the assets can be placed
